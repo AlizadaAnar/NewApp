@@ -15,5 +15,8 @@ public class App {
 
         System.out.println("my new change");
         System.out.println("i am Orxan");
+
+        int a = 10;
+        System.out.println(a);
     }
 }
