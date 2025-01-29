@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Scanner;
+
 /**
  * Hello world!
  */
@@ -18,5 +20,7 @@ public class App {
 
         int a = 10;
         System.out.println(a);
+
+        Scanner sc = new Scanner(System.in);
     }
 }
